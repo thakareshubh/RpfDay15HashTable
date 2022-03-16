@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7wzQQw1ENBJqh0Uwm1Xrr4oaRU6rvnLanDz5m1E3TvmJsQwSIWPVAp/md5mh6Q/8Idu93RgKSQwKnFW5hUaUmA==",
+  "success": true,
+  "projectFilePath": "E:\\.net\\Rpf120Day15HashTableAndTree\\FrequencyOfWordInSentence\\FrequencyOfWordInSentence\\FrequencyOfWordInSentence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

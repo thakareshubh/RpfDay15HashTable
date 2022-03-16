@@ -1,0 +1,16 @@
+E:\.net\Rpf120Day15HashTableAndTree\FrequencyOfWordInSentence\FrequencyOfWordInSentence\obj\Debug\net5.0\FrequencyOfWordInSentence.csproj.AssemblyReference.cache
+E:\.net\Rpf120Day15HashTableAndTree\FrequencyOfWordInSentence\FrequencyOfWordInSentence\obj\Debug\net5.0\FrequencyOfWordInSentence.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpf120Day15HashTableAndTree\FrequencyOfWordInSentence\FrequencyOfWordInSentence\obj\Debug\net5.0\FrequencyOfWordInSentence.AssemblyInfoInputs.cache
+E:\.net\Rpf120Day15HashTableAndTree\FrequencyOfWordInSentence\FrequencyOfWordInSentence\obj\Debug\net5.0\FrequencyOfWordInSentence.AssemblyInfo.cs
+E:\.net\Rpf120Day15HashTableAndTree\FrequencyOfWordInSentence\FrequencyOfWordInSentence\obj\Debug\net5.0\FrequencyOfWordInSentence.csproj.CoreCompileInputs.cache
+E:\.net\Rpf120Day15HashTableAndTree\FrequencyOfWordInSentence\FrequencyOfWordInSentence\bin\Debug\net5.0\FrequencyOfWordInSentence.exe
+E:\.net\Rpf120Day15HashTableAndTree\FrequencyOfWordInSentence\FrequencyOfWordInSentence\bin\Debug\net5.0\FrequencyOfWordInSentence.deps.json
+E:\.net\Rpf120Day15HashTableAndTree\FrequencyOfWordInSentence\FrequencyOfWordInSentence\bin\Debug\net5.0\FrequencyOfWordInSentence.runtimeconfig.json
+E:\.net\Rpf120Day15HashTableAndTree\FrequencyOfWordInSentence\FrequencyOfWordInSentence\bin\Debug\net5.0\FrequencyOfWordInSentence.runtimeconfig.dev.json
+E:\.net\Rpf120Day15HashTableAndTree\FrequencyOfWordInSentence\FrequencyOfWordInSentence\bin\Debug\net5.0\FrequencyOfWordInSentence.dll
+E:\.net\Rpf120Day15HashTableAndTree\FrequencyOfWordInSentence\FrequencyOfWordInSentence\bin\Debug\net5.0\FrequencyOfWordInSentence.pdb
+E:\.net\Rpf120Day15HashTableAndTree\FrequencyOfWordInSentence\FrequencyOfWordInSentence\obj\Debug\net5.0\FrequencyOfWordInSentence.dll
+E:\.net\Rpf120Day15HashTableAndTree\FrequencyOfWordInSentence\FrequencyOfWordInSentence\obj\Debug\net5.0\refint\FrequencyOfWordInSentence.dll
+E:\.net\Rpf120Day15HashTableAndTree\FrequencyOfWordInSentence\FrequencyOfWordInSentence\obj\Debug\net5.0\FrequencyOfWordInSentence.pdb
+E:\.net\Rpf120Day15HashTableAndTree\FrequencyOfWordInSentence\FrequencyOfWordInSentence\obj\Debug\net5.0\FrequencyOfWordInSentence.genruntimeconfig.cache
+E:\.net\Rpf120Day15HashTableAndTree\FrequencyOfWordInSentence\FrequencyOfWordInSentence\obj\Debug\net5.0\ref\FrequencyOfWordInSentence.dll
